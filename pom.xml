@@ -11,7 +11,7 @@
     <failOnMissingWebXml>false</failOnMissingWebXml>
   </properties>
   
-<dependencies> 
+<dependencies>
     <!-- Servlet API -->
     <dependency>
       <groupId>javax.servlet</groupId>
